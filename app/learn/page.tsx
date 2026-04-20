@@ -10,6 +10,8 @@ export default function learnpage() {
           <p>Figma</p>
           <p>8 Hours ago</p>
         </div>
+
+        <div>Adobe</div>
     </div>
     
 );
