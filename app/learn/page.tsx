@@ -11,5 +11,6 @@ export default function learnpage() {
           <p>8 Hours ago</p>
         </div>
     </div>
+    
 );
 }
